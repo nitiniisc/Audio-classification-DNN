@@ -1,1 +1,1 @@
-Audio classification usning Deep Neuara network. For feature extraction 80-mel spectrogram is used. The model is trained on the DCASE 2016 dataset.
+Audio classification usning Deep Neuara network. For feature extraction 60-mel spectrogram is used. The model is trained on the DCASE 2016 dataset.
